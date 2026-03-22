@@ -1,0 +1,13 @@
+yfinance
+pandas-ta
+tensorflow
+gymnasium
+transformers
+web3
+streamlit
+scikit-learn
+xgboost
+python-dotenv
+pandas
+numpy
+matplotlib
