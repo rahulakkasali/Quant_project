@@ -1,4 +1,4 @@
-install --upgrade pip
+--upgrade pip
 yfinance
 pandas
 tensorflow
