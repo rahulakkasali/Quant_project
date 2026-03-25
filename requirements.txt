@@ -1,5 +1,5 @@
 yfinance
-pandas-ta
+pandas
 tensorflow
 gymnasium
 transformers
@@ -12,4 +12,3 @@ pandas
 numpy
 matplotlib
 streamlit
-install --upgrade pip
