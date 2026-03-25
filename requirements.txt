@@ -12,3 +12,4 @@ pandas
 numpy
 matplotlib
 streamlit
+install --upgrade pip
