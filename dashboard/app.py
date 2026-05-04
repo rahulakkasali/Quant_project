@@ -13,6 +13,11 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 st.set_page_config(page_title="QUANTWHALE", layout="wide", page_icon="🐳")
 
+# Vercel Web Analytics Integration
+st.components.v1.html("""
+<script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
+""", height=0)
+
 # Custom CSS for Premium Design Aesthetic
 st.markdown("""
 <style>
